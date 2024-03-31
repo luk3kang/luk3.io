@@ -1,7 +1,7 @@
 // See https://observablehq.com/framework/config for documentation.
 export default {
   // The project’s title; used in the sidebar and webpage titles.
-  title: "강그루의 삼라만상",
+  title: "강선생의 삼라만상",
   cleanUrls: false,
 
   // The pages and sections in the sidebar. If you don’t specify this option,
